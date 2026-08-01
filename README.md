@@ -1,4 +1,4 @@
-# PatientHealthDMS — EHR De-Identification & Data-Quality Pipeline
+# EHR HIPAA De-Identification Pipeline
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
