@@ -1,5 +1,10 @@
 # PatientHealthDMS — EHR De-Identification & Data-Quality Pipeline
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HIPAA Safe Harbor](https://img.shields.io/badge/HIPAA-Safe%20Harbor-0A5C36?style=for-the-badge)
+![Synthea](https://img.shields.io/badge/Synthea-synthetic%20EHR%20data-6A5ACD?style=for-the-badge)
+
 A portfolio project that mirrors a realistic, **medallion-style EHR data pipeline**
 on a purely local **PostgreSQL** server. It ingests the [Synthea](https://synthetichealth.github.io/synthea/)
 synthetic patient dataset, **de-identifies** it following HIPAA Safe Harbor logic,
